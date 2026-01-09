@@ -1,8 +1,8 @@
 # Hi, I'm Aditya Mathur 👋
 
-🚀 Final-year B.Tech student in Information Technology (2026)  
-💻 Software Engineer | Backend & Full-Stack Developer  
-🤖 Interested in AI-powered systems, scalable backend services, and system design
+Final-year B.Tech student in Information Technology (2026)  
+Software Engineer | Backend & Full-Stack Developer  
+Interested in AI-powered systems, scalable backend services, and system design
 
 ---
 
@@ -26,11 +26,11 @@
 ---
 
 ## 🔹 Featured Projects
-### 🧠 EY Techathon – RFP BidAssist AI Platform
+###  EY Techathon – RFP BidAssist AI Platform
 AI-powered system that automates government RFP analysis and recommends optimal products from enterprise datasheets.  
 🔗 Repo: https://github.com/MadScientistt4/RFP-BidAssist-AI
 
-### ⚽ GoalConnect – Football Platform
+### GoalConnect – Football Platform
 Real-time platform with chat, scraping pipelines, and secure payments.  
 🏆 Best Hack Award (INR 10k), Manipal Hackathon  
 🔗 Repo: https://github.com/MadScientistt4/Goal-Connect  
