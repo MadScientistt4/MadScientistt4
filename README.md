@@ -15,7 +15,7 @@ Currently exploring:
 ## ⚡ Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,java,c)](https://skillicons.dev)
 
 ### Backend & Frontend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi)](https://skillicons.dev)
