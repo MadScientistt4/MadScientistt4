@@ -127,7 +127,7 @@ https://goal-connect-nu.vercel.app/
 ## 🧩 Competitive Programming
 <p align="center">
   <a href="https://codolio.com/profile/MadScientist">
-    <img src="https://codolio.com/profile/MadScientist/card" alt="Codolio Profile Card" />
+    <img src="./assets/profileCard (1).png.png" width="380" alt="Codolio Card"/>
   </a>
 </p>
 <p align="left">
