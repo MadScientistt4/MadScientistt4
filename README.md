@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aditya Mathur 👋</h1>
+<h1 align="center">Hi, I'm Aditya Mathur 👋</h1>
 
 <h3 align="center">
 Full-stack developer focused on backend systems, AI-powered products, and scalable web applications.
