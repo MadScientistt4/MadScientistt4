@@ -98,9 +98,13 @@ https://goal-connect-nu.vercel.app/
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MadScientistt4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadScientistt4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadScientistt4&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadScientistt4&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+</p>
 
 <!-- Uncomment later when streak improves -->
 
