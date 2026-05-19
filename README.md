@@ -25,27 +25,42 @@ I enjoy building real-time systems, automation pipelines, AI workflows, and deve
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
 </p>
 
 ### Backend & Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
 </p>
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
 
 ### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,prisma" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" />
 </p>
 
 ---
