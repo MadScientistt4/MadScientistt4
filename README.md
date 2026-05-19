@@ -98,21 +98,11 @@ https://goal-connect-nu.vercel.app/
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadScientistt4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=MadScientistt4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadScientistt4&theme=tokyonight&hide_border=true&layout=compact" height="170" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadScientistt4&theme=tokyonight&hide_border=true)
 
-<!-- Uncomment later when streak improves -->
-
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadScientistt4&theme=tokyonight&hide_border=true" />
-</p>
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadScientistt4&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
