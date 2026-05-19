@@ -12,28 +12,22 @@ Currently exploring:
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
-TypeScript, JavaScript, Python, Java, C++
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,java,c,cpp)](https://skillicons.dev)
 
-### Backend
-Node.js, Express.js, FastAPI, Prisma
-
-### Frontend
-React, Next.js
+### Backend & Frontend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,fastapi)](https://skillicons.dev)
 
 ### Databases
-PostgreSQL, MongoDB, MySQL
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis)](https://skillicons.dev)
 
 ### Cloud & DevOps
-Docker, AWS, GitHub Actions
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,githubactions)](https://skillicons.dev)
 
-### Tools & Technologies
-REST APIs, WebSockets, Socket.io, JWT Auth, Git
-
-### AI / ML
-LLM integration, OCR pipelines, document intelligence, deep learning fundamentals
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,linux,postman)](https://skillicons.dev)
 
 ---
 
@@ -75,8 +69,20 @@ Real-time football platform built with live chat, scraping pipelines, authentica
 
 ---
 
-## Connect With Me
+## 📊 GitHub Stats
 
-🌐 Portfolio: https://adityamathur.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/aditya-mathur-514162167  
-📧 Email: aditya.mathur5885@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=MadScientistt4&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadScientistt4&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadScientistt4&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aditya-mathur-514162167)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://adityamathur.vercel.app)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.mathur5885@gmail.com)
