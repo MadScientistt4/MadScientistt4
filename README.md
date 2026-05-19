@@ -25,7 +25,7 @@ I enjoy building real-time systems, automation pipelines, AI workflows, and deve
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java" />
 </p>
 
 ### Backend & Frontend
