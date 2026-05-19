@@ -125,7 +125,11 @@ https://goal-connect-nu.vercel.app/
 ---
 
 ## 🧩 Competitive Programming
-
+<p align="center">
+  <a href="https://codolio.com/profile/MadScientist">
+    <img src="https://codolio.com/profile/MadScientist/card" alt="Codolio Profile Card" />
+  </a>
+</p>
 <p align="left">
   <a href="https://leetcode.com/u/MadScientistt/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -137,10 +141,6 @@ https://goal-connect-nu.vercel.app/
 
   <a href="https://codeforces.com/profile/Mad_Scientistt" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <a href="https://codolio.com/profile/MadScientist" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white" />
   </a>
 </p>
 
