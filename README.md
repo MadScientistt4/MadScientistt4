@@ -109,16 +109,38 @@ https://goal-connect-nu.vercel.app/
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-mathur-514162167" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-mathurr" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://adityamathur.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 
   <a href="mailto:aditya.mathur5885@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://adityamathur.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Competitive Programming
+
+<p align="left">
+  <a href="https://leetcode.com/u/MadScientistt/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.codechef.com/users/steins010" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Mad_Scientistt" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://codolio.com/profile/MadScientist" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-0A0A0A?style=for-the-badge&logo=codeium&logoColor=white" />
   </a>
 </p>
 
