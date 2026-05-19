@@ -106,6 +106,28 @@ https://goal-connect-nu.vercel.app/
 
 ---
 
+## 🧩 Competitive Programming
+<p align="left">
+  <a href="https://codolio.com/profile/MadScientist">
+    <img src="./assets/profileCard (1).png" width="380" alt="Codolio Card"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://leetcode.com/u/MadScientistt/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.codechef.com/users/steins010" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Mad_Scientistt" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -124,27 +146,6 @@ https://goal-connect-nu.vercel.app/
 
 ---
 
-## 🧩 Competitive Programming
-<p align="center">
-  <a href="https://codolio.com/profile/MadScientist">
-    <img src="./assets/profileCard (1).png.png" width="380" alt="Codolio Card"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://leetcode.com/u/MadScientistt/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://www.codechef.com/users/steins010" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://codeforces.com/profile/Mad_Scientistt" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
 Thanks for stopping by! Feel free to explore my repositories and projects 🚀
