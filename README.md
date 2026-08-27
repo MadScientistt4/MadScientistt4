@@ -12,7 +12,7 @@ I enjoy building real-time systems, automation pipelines, AI workflows, and deve
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Information Technology student at Manipal Institute of Technology (2026)
+- 🎓 Graduated from Manipal Institute of Technology in Information Technology (2026)
 - 🔭 Currently building AI-powered developer and recruiter tooling
 - 🌱 Exploring distributed systems, AI agents, and scalable backend architecture
 - ⚡ Interested in system design, backend engineering, and product-focused development
